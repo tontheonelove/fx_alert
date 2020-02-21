@@ -6,8 +6,8 @@
 include ('line-bot-api-php/php/LineBotLibrary.php');
 
 // Line Setting
-$channelSecret = '551ec4feee0.....43cff0';
-$access_token  = '2og9ogezC8k.......5ZUEQQdB04t89/1O/w1cDnyilFU=';
+$channelSecret = '3a8a0da59d62fb313eb2493a94064be2';
+$access_token  = 'p3tMahpMNaNoL1CGZqubvt0ni1Q1t1SwTPFvuv+QmWMPBBo+OWLSGL1KHp4cQLeruzpmctPp1abnfkTAqCZtu9ntMkEJg3aM/zMe8gv0I1WkX4nzwFO1zr8EvtLi8Qc1DF6faY5jYcvQNU5+5RQFIQdB04t89/1O/w1cDnyilFU=';
 
 // Enable verify Only
 // LineBotLibrary::verify($access_token);
